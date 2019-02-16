@@ -1,0 +1,1 @@
+ini hanya berada pada halaman master
